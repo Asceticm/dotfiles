@@ -27,7 +27,6 @@
  " color theme
  Bundle 'tpope/vim-vividchalk'
  Bundle 'spf13/vim-colors'
- Bundle 'rickharris/vim-blackboard'
  Bundle 'chriskempson/vim-tomorrow-theme'
 
  "Bundle 'spf13/PIV'
@@ -38,6 +37,7 @@
  Bundle 'matrix.vim'
  Bundle 'ShowMarks'
  Bundle 'matchit.zip'
+ Bundle 'VimIM'
  "Bundle 'minibufexpl.vim'
  "Bundle 'genutils'
  "Bundle 'lookupfile'
