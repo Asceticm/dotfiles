@@ -73,11 +73,6 @@ set cmdheight=2
 "show matching bracket for 0.2 seconds
 set matchtime=2
 
-" highlight current line
-au WinLeave * set nocursorline nocursorcolumn
-au WinEnter * set cursorline cursorcolumn
-set cursorline cursorcolumn
-
 """"""""""""""""
 "  Color&View  "
 """"""""""""""""
