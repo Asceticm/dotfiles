@@ -129,7 +129,9 @@ map j gj
 map k gk
 
 " Disable highlight when <leader><cr> is pressed
-map <silent> <leader><cr> :noh<cr>
+map <silent> <leader><cr> :nohl<cr>
+
+map <C-[> <C-W>}
 
 " Smart way to move between windows
 map <C-j> <C-W>j
