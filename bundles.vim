@@ -23,6 +23,8 @@
 
  Bundle 'scrooloose/syntastic'
 
+ Bundle 'humiaozuzu/TabBar'
+
  "Bundle 'humiaozuzu/TabBar'
  " color theme
  Bundle 'tpope/vim-vividchalk'
@@ -38,13 +40,13 @@
  Bundle 'ShowMarks'
  Bundle 'matchit.zip'
  Bundle 'VimIM'
+ Bundle 'Markdown'
  "Bundle 'minibufexpl.vim'
  "Bundle 'genutils'
  "Bundle 'lookupfile'
  "Bundle 'bufexplorer.zip'
  "Bundle 'ZenCoding.vim'
  "Bundle 'c.vim'
- "Bundle 'Markdown'
  " non github repos
  " ...
 

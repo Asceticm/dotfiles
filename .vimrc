@@ -126,7 +126,7 @@ map k gk
 " Disable highlight when <leader><cr> is pressed
 map <silent> <leader><cr> :nohl<cr>
 
-map <C-[> <C-W>}
+map <C-[> <ESC>
 
 " Smart way to move between windows
 map <C-j> <C-W>j
@@ -173,9 +173,9 @@ nmap <leader>cp :cp<cr>
 nmap <leader>cw :cw 10<cr>
 
 "Load project settings
-if filereadable("project.vim")
-    source project.vim
-endif
+"if filereadable("project.vim")
+"    source project.vim
+"endif
 
 """""""""""
 " Plugins "
