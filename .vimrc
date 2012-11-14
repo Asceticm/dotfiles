@@ -90,7 +90,7 @@ if g:iswindows==1
     set termencoding=GBK
 else
     if has("gui_running")
-        color elflord
+        color koehler
     else
         colorscheme default
     endif
