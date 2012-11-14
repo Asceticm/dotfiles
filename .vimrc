@@ -84,16 +84,15 @@ syntax on
 set go=
 
 if g:iswindows==1
-    "colorscheme darkblue
-    colorscheme ir_black
+    colorscheme darkblue
     set guifont=Courier_New:h12:w4
     "set guifontwide=NSimSun-18030,NSimSun
     set termencoding=GBK
 else
     if has("gui_running")
-        color vividchalk
+        color elflord
     else
-        colorscheme Tomorrow
+        colorscheme default
     endif
     set guifont=DejaVu\ Sans\ Mono\ 11.5
     set termencoding=utf-8

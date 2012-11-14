@@ -19,18 +19,12 @@
  Bundle 'tomtom/tlib_vim'
 
  Bundle 'myusuf3/numbers.vim'
- Bundle 'Lokaltog/vim-powerline'
 
  Bundle 'scrooloose/syntastic'
 
  Bundle 'humiaozuzu/TabBar'
 
- "Bundle 'humiaozuzu/TabBar'
- " color theme
- Bundle 'tpope/vim-vividchalk'
- Bundle 'spf13/vim-colors'
- Bundle 'chriskempson/vim-tomorrow-theme'
-
+ "Bundle 'Lokaltog/vim-powerline'
  "Bundle 'spf13/PIV'
  "Bundle 'Lokaltog/vim-easymotion'
  " vim-scripts repos
