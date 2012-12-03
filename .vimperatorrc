@@ -1,0 +1,6 @@
+"3.5 (created: 2012/08/04 00:41:20)
+
+set hintchars=hjklasdf
+source! /home/lenovo/.vimperatorrc.local
+
+" vim: set ft=vimperator:
